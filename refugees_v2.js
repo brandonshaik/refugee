@@ -3,7 +3,7 @@
 var seekColor = '#ff6d1a';
 var escapeColor = '#14babd';
 
-var seekData;
+var seekData;  
 var escapeData;
 var countries;
 var currentYear = '2006';
